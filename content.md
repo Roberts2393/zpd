@@ -4,6 +4,6 @@
 ### 1. Aprakstīt spēli
 ### 2. Spēles loģika
 
-Dators nejaušu ģenerē vienu skaitli no 1 līdz 100
+Dators nejaušu ģenerē vienu skaitli no 1 līdz 100, Tālāk piedāvā spēlētājam uzminēt to skaitli. Un tt.
 
-### 3. Un t.t.
+### 3. Un tt.
